@@ -1,0 +1,10 @@
+transformers~=4.37.0
+sentencepiece~=0.1.99
+torch>=2.1.0
+xformers~=0.0.23.post1
+peft~=0.7.1
+accelerate
+bitsandbytes
+datasets~=2.16.1
+trl~=0.7.11
+tomli_w
